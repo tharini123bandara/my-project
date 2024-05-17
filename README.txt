@@ -1,0 +1,2 @@
+Project Name: Git Practice Project
+Description: This project is designed to practice using Git version control with Python code. It will involve creating a simple Python script and tracking changes using Git commands.
