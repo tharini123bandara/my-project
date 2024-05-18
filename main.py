@@ -1,12 +1,16 @@
 # main.py
-from dog import Dog
-from cat import Cat
+
+from bird import Bird
+from fish import Fish
 
 def main():
-    dog = Dog("Buddy")
-    cat = Cat("Whiskers")
-    print(dog.speak())
-    print(cat.speak())
+   
+    bird = Bird("Tweety")
+    fish = Fish("Nemo")
+
+    
+    print(bird.speak())
+    print(fish.speak())
 
 if __name__ == "__main__":
     main()
