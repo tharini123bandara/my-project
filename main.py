@@ -1,4 +1,7 @@
+
 # main.py
+
+# making objects of animals
 from dog import Dog
 from cat import Cat
 
